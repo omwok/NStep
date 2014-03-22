@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SGU.NStep.Core", "SGU.NStep.Core\SGU.NStep.Core.csproj", "{1964D487-7FB0-4DDE-8C88-C2922A735F07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SGU.NStep.Tests", "SGU.NStep.Tests\SGU.NStep.Tests.csproj", "{6F388581-EEC6-4E0A-868E-9D09BFD04EC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1964D487-7FB0-4DDE-8C88-C2922A735F07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1964D487-7FB0-4DDE-8C88-C2922A735F07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1964D487-7FB0-4DDE-8C88-C2922A735F07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1964D487-7FB0-4DDE-8C88-C2922A735F07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F388581-EEC6-4E0A-868E-9D09BFD04EC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F388581-EEC6-4E0A-868E-9D09BFD04EC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F388581-EEC6-4E0A-868E-9D09BFD04EC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F388581-EEC6-4E0A-868E-9D09BFD04EC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
